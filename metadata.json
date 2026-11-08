@@ -1,0 +1,6 @@
+{
+  "name": "Insta TV - Liquid Glass Edition",
+  "description": "Premium Apple and Instagram inspired Liquid Glass TV launcher with D-pad navigation, frosted glass cards, and under-2MB Android 9 architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
